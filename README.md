@@ -1,13 +1,13 @@
 # myqr
 ## QR Code scanner for login hotspot MikroTik
 
-### Cara pakai
+### Cómo utilizar
 
-1. Tambahkan button di login.html
+1. Agregar un botón en login.html
 ```html
-<button onclick="window.location='https://laksa19.github.io/myqr';">QR Code</button>
+<button onclick="window.location='https://jmanuelhk.github.io/myqr';">QR Code</button>
 ```
-2. Tambahkan script berikut di MikroTik via Terminal.
+2. Agregue el siguiente script en MikroTik via Terminal.
 ```
 /ip hotspot walled-garden ip
 
